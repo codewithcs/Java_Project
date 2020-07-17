@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-configuration>
+    <session-factory>
+        <mapping class="com.murex.retail.experience.ComputerComponent"/>
+    </session-factory>
+</hibernate-configuration>

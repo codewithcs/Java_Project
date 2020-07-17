@@ -1,0 +1,8 @@
+{Storage=Optional[375cfcec-9655-4c68-9afc-8c706685c883	Storage	KingstonDigitalKC1000NVMePCIe	Kingston	2.5	SSD	960GB	439	12
+], Monitor=Optional[79b536c7-6a19-4099-96ec-5cdcb33b9548	Monitor	ASUSDesignoCurveMX34VQUltra-wide	Asus	34	3440x1440	Silver	700	10
+], Mouse=Optional[8611b32f-5efc-4452-9bfe-0f0776c63195	Mouse	RazerNagaTrinityGaming	Razer	2.2Wx1.8Lx4.4D	Black	108	20
+], Memory=Optional[abd86688-2ed5-4a16-af25-e7e2118a1af0	Memory	PatriotDDR4-3400	Patriot	DDR4	16GB	229	5
+], Keyboard=Optional[1a4eea28-0681-4ca3-b151-b13ecce8d85d	Keyboard	BWTournamentChromaV2	RAZER	14.6Wx8.1Lx0.2D	Pink	170	2
+], CPU=Optional[96fc477c-0c66-4400-9217-94817072429f	CPU	IntelCorei7-8700K	Intel	Corei7	6	3.70GHz	1.20GHz	200	15
+], GPU=Optional[ea2b9fd9-d908-4c78-84f0-201483cd91ff	GPU	GeForceGTS150	NVIDIA	GeForceGTS150	128	738MHZ	1836MHZ	500	5
+]}
